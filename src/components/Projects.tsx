@@ -14,7 +14,7 @@ const Projects: React.FC = () => {
       description: "A modern, responsive portfolio website built with React and deployed using GitHub Pages and Netlify. Features smooth animations and a clean design.",
       image: "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=600",
       technologies: ["React", "CSS", "JavaScript", "GitHub Pages", "Netlify"],
-      liveUrl: "#",
+      liveUrl: "https://ashishraj.vercel.app/",
       githubUrl: "https://github.com/ashishraj875718-jpg",
     },
     {
@@ -23,16 +23,7 @@ const Projects: React.FC = () => {
       description: "Hackathon-winning project that revolutionizes restaurant ordering through QR code-based digital menus. Winner of HackTheFuture1.0 competition.",
       image: "https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg?auto=compress&cs=tinysrgb&w=600",
       technologies: ["React", "Node.js", "QR Codes", "Database", "Payment Gateway"],
-      liveUrl: "#",
-      githubUrl: "https://github.com/ashishraj875718-jpg",
-    },
-    {
-      id: 3,
-      title: "E-Commerce Website - StreetStylings",
-      description: "A comprehensive e-commerce platform for fashion products. Currently in development with features for product catalog, shopping cart, and user authentication.",
-      image: "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600",
-      technologies: ["React", "Node.js", "MongoDB", "Express", "Payment Integration"],
-      status: "In Progress",
+      liveUrl: "https://loginqrify.netlify.app/",
       githubUrl: "https://github.com/ashishraj875718-jpg",
     },
   ];
