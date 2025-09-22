@@ -30,7 +30,7 @@ const Hero: React.FC = () => {
 
   const socialLinks = [
     { icon: Github, href: 'https://github.com/ashishraj875718-jpg', label: 'GitHub' },
-    { icon: Linkedin, href: '#', label: 'LinkedIn' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/ashish-raj-87531428b/', label: 'LinkedIn' },
     { icon: ExternalLink, href: '#', label: 'Portfolio' },
   ];
 
